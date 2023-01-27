@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **kartikeymishra626@gmail.com**
 
-- 🔭 I’ve worked [These projects](https://github.com/KartikeyMish/Projects)
+- 🔭 I’ve worked on [these projects](https://github.com/KartikeyMish/Projects)
 
 
 <h3 align="left">Connect with me:</h3>
