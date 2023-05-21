@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karikey Mishra</h1> 
 <h3 align="center">A passionate Developer and Data Science enthusiast from India.</h3> 
 
-![](https://komarev.com/ghpvc/?username=kartikeymish&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=kartikeymish&style=for-the-badge&color=blueviolet)
 - 📝 I regularly write articles on [https://medium.com/@kartikeymish](https://medium.com/@kartikeymish)
 
 - 📫 How to reach me **kartikeymishra626@gmail.com**
