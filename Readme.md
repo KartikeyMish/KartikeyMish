@@ -8,6 +8,8 @@
 
 - 🔭 I’ve worked on [these projects](https://github.com/KartikeyMish/Projects)
 
+- 📖 I regurlary post me leetcode solutions on [leetcode](https://github.com/KartikeyMish/leetcode) repo.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
