@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karikey Mishra</h1> 
 <h3 align="center">A passionate Developer and Data enthusiast from India.</h3> 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 ![](https://komarev.com/ghpvc/?username=kartikeymish&style=for-the-badge&color=blueviolet)
 - 📝 I regularly write articles on [https://medium.com/@kartikeymish](https://medium.com/@kartikeymish)
