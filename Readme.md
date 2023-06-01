@@ -26,7 +26,23 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeymish&layout=compact)](https://github.com/kartikeymish/github-readme-stats)
+
+### :zap: Github Stats
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikeymish&show_icons=true&locale=en&layout=compact&theme=dark" alt="kartikeymish" align="right" />
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=kartikeymish&theme=highcontrast&exclude_days=Thu)](https://git.io/streak-stats)
+
+
+
+
+<br>
+
+<p align = "center"><img src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=kartikeymish&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Kartikey's Github Stats" width="60%"></p>
+
+<br>
+
+
 
 <br>
 
