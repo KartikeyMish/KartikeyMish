@@ -28,5 +28,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeymish&layout=compact)](https://github.com/kartikeymish/github-readme-stats)
 
+<br>
 
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
