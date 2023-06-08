@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **kartikeymishra626@gmail.com**
 
-- 🔭 I’ve worked on [these projects](https://github.com/KartikeyMish/Projects)
+- 🔭 I’ve worked on [these projects](https://github.com/KartikeyMish/Projects).
 
 - 📖 I regurlary post me leetcode solutions on [leetcode](https://github.com/KartikeyMish/leetcode) repo.
 
