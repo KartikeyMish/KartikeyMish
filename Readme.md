@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=kartikeymish&style=for-the-badge&color=blueviolet)
 - 📝 I regularly write articles on [https://medium.com/@kartikeymish](https://medium.com/@kartikeymish)
 
-- 📫 How to reach me **kartikeymishra626@gmail.com** .
+- 📫 How to reach me **kartikeymishra626@gmail.com**
 
 - 🔭 I’ve worked on [these projects](https://github.com/KartikeyMish/Projects).
 
