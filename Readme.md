@@ -43,8 +43,6 @@
 </details>
 
 
-<br>
-
 
 ### :zap: Github Stats
 <br>
