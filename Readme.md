@@ -1,9 +1,24 @@
-<h1 align="center">Hi 👋, I'm Karikey Mishra</h1> 
-<h3 align="center">A passionate Developer and Data enthusiast from India.</h3> 
+<h1 align="center">Hi, I'm Karikey Mishra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
+<h3 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CC07F7&center=true&vCenter=true&width=435&lines=I+am+a+Software+Developer+;I+am+a+Data+Scientist+;I+am+a+Data+Analyst" alt="Typing SVG" /></a></h3> 
+
+<h3 align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=kartikeymish&style=for-the-badge&color=blueviolet)  
+</h3>
+
+
+
+<h1 align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> About me <tab>
+</h1>
+
+
+
+
 <img align="right" alt="Coding" width="370" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
 
-![](https://komarev.com/ghpvc/?username=kartikeymish&style=for-the-badge&color=blueviolet)
 - 📝 I regularly write articles on [https://medium.com/@kartikeymish](https://medium.com/@kartikeymish)
 
 - 📫 How to reach me **kartikeymishra626@gmail.com**
@@ -12,14 +27,13 @@
 
 - 📖 I regurlary post me leetcode solutions on [leetcode](https://github.com/KartikeyMish/leetcode) repo.
 
-
-<h3 align="left">Connect with me :</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kartikey-mishra-735311209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikey-mishra-735311209" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kartikeymishra62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kartikeymishra62" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kartikeymish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartikeymish" height="30" width="40" /></a>
-</p>
-                                           
+<p>
+    <a href="mailto:kartikey.mishra626@gmail.com"><img img="" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
+    <a href="https://github.com/kartikeymish"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
+    <a href="https://wa.me/+919369244056"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&amp;logo=whatsapp&amp;logoColor=white" alt="Whatsapp"></a>
+    <a href="https://www.linkedin.com/in/kartikeymish/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.leetcode.com/kartikeymish/"><img alt="Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&amp;logo=leetcode&amp;logoColor=black"></a>
+</p>                                           
 <details>
   <summary> <h3 align="left">Languages and Technologies 🌐👨🏻‍💻</h3></summary>
   <p>
@@ -44,7 +58,7 @@
 
 
 
-### :zap: Github Stats
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"> Github Stats
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikeymish&show_icons=true&locale=en&layout=compact&theme=dark" alt="kartikeymish" align="right" />
   
