@@ -23,22 +23,25 @@
 </h1>
 
 
+<div align="center">
 
 
-<img align="right" alt="Coding" width="370" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+
+ 🧠 Loves Building AI/ML Projects.
+
+ 📫 Reach me on **kartikeymishra626@gmail.com**
 
 
-- 📝 I regularly write articles on [https://medium.com/@kartikeymish](https://medium.com/@kartikeymish)
 
-- 📫 How to reach me **kartikeymishra626@gmail.com**
-
-- 🔭 I’ve worked on [these projects](https://github.com/KartikeyMish/Projects).
-
-- 📖 I regurlary post me leetcode solutions on [leetcode](https://github.com/KartikeyMish/leetcode) repo.
+ 📖 I regurlary post me leetcode solutions on [leetcode](https://github.com/KartikeyMish/leetcode) repo.
 
 
-## 💻 LANGUAGES:
+ 
+## 💻 LANGUAGES
+  
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+
+ 
 ## ☁️ Hosting/ SaaS 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ## ⚙️ Frameworks 
@@ -50,8 +53,16 @@
 ## 🧠 ML/DL
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+# 📝 Some of my recent blogs 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kartikeymish/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kartikeymish/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kartikeymish/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kartikeymish/1" alt="Recent Article 0">
+ 
+
+
 
 # <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"> Github Stats
+
+
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikeymish&show_icons=true&locale=en&layout=compact&theme=dark" alt="kartikeymish" align="right" />
   
@@ -63,7 +74,7 @@
 <br>
 
 <p align = "center"><img src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=kartikeymish&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Kartikey's Github Stats" width="60%"></p>
-
+ </div>
 <br>
 <h2 align = "center">
   
