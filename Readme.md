@@ -26,15 +26,15 @@
 <div align="center">
 
 
-
  🧠 Loves Building AI/ML Projects.
+
+ ☁️ AWS Cloud Practioner Certified.
+
+ 💡 Looking for some great ideas, would love to collab. 
 
  📫 Reach me on **kartikeymishra626@gmail.com**
 
-
-
  📖 I regurlary post me leetcode solutions on [leetcode](https://github.com/KartikeyMish/leetcode) repo.
-
 
  
 ## 💻 LANGUAGES
