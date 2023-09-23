@@ -15,18 +15,16 @@
   
   ![](https://komarev.com/ghpvc/?username=kartikeymish&style=for-the-badge&color=blueviolet)  
 </h3>
-
-
-
 <h1 align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> About me <tab>
 </h1>
-
-
+    
 <div align="center">
 
 
  🧠 Loves Building AI/ML Projects.
+
+ 👨🏻‍💻 Currently Working on enhancing [RepoSavant](https://github.com/kartikeymish/reposavant) for users.
 
  ☁️ AWS Cloud Practioner Certified.
 
