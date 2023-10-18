@@ -57,7 +57,9 @@
  
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@kartikeymish/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@kartikeymish/0" alt="Recent Article 1">
 
+# Hacktoberfest
 
+[![An image of @kartikeymish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartikeymish)](https://holopin.io/@kartikeymish)
 
 # <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"> Github Stats
 
